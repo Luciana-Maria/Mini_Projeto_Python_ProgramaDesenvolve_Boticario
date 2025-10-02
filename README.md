@@ -85,3 +85,5 @@ Projeto desenvolvido por Luciana, estudante do Programa Desenvolve Grupo Boticá
 ## 🔗 Conecte-se comigo
 
 - [LinkedIn](https://linkedin.com/in/lucianaqa)
+---
+
