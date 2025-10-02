@@ -52,8 +52,8 @@ O relatório completo com descobertas, análises e recomendações estratégicas
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mini-projeto-analise-dados.git
-   cd mini-projeto-analise-dados
+   git clone https://github.com/seu-usuario/Mini_Projeto_Python_ProgramaDesenvolve_Boticario.git
+   cd Mini_Projeto_Python_ProgramaDesenvolve_Boticario
    Crie e ative um ambiente virtual (opcional mas recomendado):
 
 python -m venv venv
@@ -69,6 +69,8 @@ pip install -r requirements.txt
 Abra o Jupyter Notebook ou Google Colab para rodar:
 
 jupyter notebook notebooks/mini_projeto_analise_dados.ipynb
+
+Faça o download do arquivo sales_data_sample e utilize o CSV dentro para rodar os códigos do projeto.
 
 ## Próximos Passos
 
