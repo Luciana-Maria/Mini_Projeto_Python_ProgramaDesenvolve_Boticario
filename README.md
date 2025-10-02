@@ -16,7 +16,7 @@ O objetivo foi aplicar conhecimentos de **Python, estatística, manipulação de
 
 ## 🔧 Tecnologias Utilizadas
 - **Python**
-- [pandas](https://pandas.pydata.org/) → manipulação de dados  
+- [Pandas](https://pandas.pydata.org/) → manipulação de dados  
 - [NumPy](https://numpy.org/) → operações matemáticas e estatísticas  
 - [Matplotlib](https://matplotlib.org/) → visualização de dados  
 
