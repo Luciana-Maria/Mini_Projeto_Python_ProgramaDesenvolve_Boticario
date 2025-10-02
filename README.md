@@ -70,7 +70,7 @@ Abra o Jupyter Notebook ou Google Colab para rodar:
 
 jupyter notebook notebooks/mini_projeto_analise_dados.ipynb
 
-Próximos Passos
+## Próximos Passos
 
 Criar dashboard interativo no Looker Studio ou Power BI.
 
