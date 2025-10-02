@@ -78,7 +78,7 @@ Explorar modelos de previsão de vendas com Machine Learning.
 
 Publicar insights em posts no LinkedIn para compartilhar a jornada de aprendizado.
 
-👩‍💻 Autoria
+## 👩‍💻 Autoria
 
 Projeto desenvolvido por Luciana, estudante do Programa Desenvolve Grupo Boticário 2025.
 
